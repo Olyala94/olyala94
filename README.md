@@ -1,10 +1,11 @@
-### # Hi, I'm Olya Yusupova! 👋
+# Hi, I'm Olya Yusupova! 👋
 Mid-Level .Net Software Developer 🌟 👋
 
-- 🔭 I’m currently working on InfotechLab
+- 🔭 I’m currently working at InfotechLab
 - 🌱 I’m currently learning .Net Web Development and exploring other programming languages.
 
-- 📫 How to reach me:  [olyayusupova498@gmail.com]
+- 📫 How to reach me: [olyayusupova498@gmail.com](mailto:olyayusupova498@gmail.com)
+  
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/oguljemal-yusupova-7449b1270/)
 
