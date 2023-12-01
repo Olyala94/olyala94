@@ -25,4 +25,4 @@ Mid-Level .Net Software Developer 🌟
 - Postgres
 - React.JS
 
-Feel free to connect with me! Let's code and enjoy the journey together. 😊
+Feel free to reach out! I'm always open to connecting with fellow developers. Let's collaborate on coding projects and embark on this journey together. 🚀😊
