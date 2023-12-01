@@ -1,16 +1,27 @@
-### Hi there 👋
+### # Hi, I'm Olya Yusupova! 👋
+Mid-Level .Net Software Developer 🌟 👋
 
-<!--
-**Olyala94/olyala94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on InfotechLab
+- 🌱 I’m currently learning .Net Web Development and exploring other programming languages.
 
-Here are some ideas to get you started:
+- 📫 How to reach me:  [olyayusupova498@gmail.com]
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/oguljemal-yusupova-7449b1270/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+- C#
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- .Net
+- .Net Core
+- Postman
+- Swagger
+- JWT
+- Docker
+- SQLServer
+- Postgres
+- React.JS
+
+Feel free to connect with me! Let's code and enjoy the journey together. 😊
