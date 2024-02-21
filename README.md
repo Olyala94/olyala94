@@ -1,5 +1,5 @@
 # Hi, 👋 I'm Olya Yusupova
-Mid-Level .Net Developer 🌟
+.Net Developer 🌟
 
 - 🔭 I’m currently working at InfotechLab
 - 🌱 I’m currently learning .Net Web Development and exploring other programming languages.
