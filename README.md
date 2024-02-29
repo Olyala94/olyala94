@@ -1,5 +1,5 @@
 # Hi, 👋 I'm Olya Yusupova
-Software Developer 🌟
+👨‍💻 Software Developer 💻🌟
 
 - 📫 How to reach me: [olyayusupova498@gmail.com](mailto:olyayusupova498@gmail.com)
 
